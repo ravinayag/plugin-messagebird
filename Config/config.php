@@ -40,6 +40,6 @@ return [
     'routes'     => [],
     'menu'       => [],
     'parameters' => [
-        'messagebird_api_endpoint'              => 'https://rest.messagebird.com/',
+        'messagebird_api_endpoint'              => 'https://api.textlocal.in/send/',
     ],
 ];
